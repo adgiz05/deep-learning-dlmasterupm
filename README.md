@@ -7,7 +7,7 @@
 ## 📖 Course Content
 
 ### **Block 1: PyTorch Basics**
-- 📘 Session 1: [Tensors](assignments/pytorch_basics/1_tensors.ipynb)
+- 📘 Session 1: [Tensors](assignments/pytorch_basics/session_1)
 - 📘 Session 2: [Modules](assignments/pytorch_basics/2_modules.ipynb)
 - 📘 Session 3: [Data Handling](assignments/pytorch_basics/3_data_handling.ipynb)
 - 📘 Session 4: [Logging & Inference](assignments/pytorch_basics/4_logging_and_inference.ipynb)
