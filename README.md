@@ -8,10 +8,10 @@
 
 ### **Block 1: PyTorch Basics**
 - 📘 Session 1: [Tensors](assignments/pytorch_basics/session_1)
-- 📘 Session 2: [Modules](assignments/pytorch_basics/2_modules.ipynb)
-- 📘 Session 3: [Data Handling](assignments/pytorch_basics/3_data_handling.ipynb)
-- 📘 Session 4: [Logging & Inference](assignments/pytorch_basics/4_logging_and_inference.ipynb)
-- 📘 Session 5: [PyTorch Lightning](assignments/pytorch_basics/5_pytorch_lightning.ipynb)
+- 📘 Session 2: [Modules](assignments/pytorch_basics/session_2)
+- 📘 Session 3: [Data Handling](assignments/pytorch_basics/session_3)
+- 📘 Session 4: [Logging & Inference](assignments/pytorch_basics/session_4)
+- 📘 Session 5: [PyTorch Lightning](assignments/pytorch_basics/session_5)
 
 
 ### **Block 2: Convolutional Neural Networks (CNN)**
