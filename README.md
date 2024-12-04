@@ -15,7 +15,7 @@
 
 
 ### **Block 2: Convolutional Neural Networks (CNN)**
-- 🖼️ Session 6: [Convolution](assignments/cnns/6_convolution.ipynb)
+- 🖼️ Session 6: [Convolution](assignments/cnns/session_6)
 - 🖼️ Session 7: [Advanced Concepts](assignments/cnns/7_advanced_concepts.ipynb)
 
 
